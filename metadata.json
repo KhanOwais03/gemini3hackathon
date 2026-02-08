@@ -1,0 +1,9 @@
+
+{
+  "name": "Echo-Sign: ASL to Speech",
+  "description": "A high-performance accessibility tool that uses Gemini's multimodal capabilities to translate American Sign Language (ASL) and facial expressions from video into natural speech.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
